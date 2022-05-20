@@ -111,7 +111,7 @@ void dibujarPantallaTres() {
 void dibujarPantallaCuatro() {
     background(#242323);
     image(imagen3,0,0,width,height);
-    textFont(fuenteTitulo,40);
+    textFont(fuenteTitulo,30);
     text(textoPantalla4,300,posicionDelTexto);
     posicionDelTexto = posicionDelTexto + 2;
     
